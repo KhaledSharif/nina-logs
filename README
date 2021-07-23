@@ -1,0 +1,14 @@
+How to run
+
+1. Download and install Anaconda Individual Edition
+    https://www.anaconda.com/products/individual
+
+2. Download this repository somewhere on device
+
+3. Open Anaconda Prompt (terminal) and navigate to repository root
+
+4. Run:
+    python app.py
+
+5. Application is now bound to the device IP address on port 80
+    http://localhost:80
